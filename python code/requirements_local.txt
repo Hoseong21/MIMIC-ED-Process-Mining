@@ -1,0 +1,4 @@
+pandas==2.3.3
+pm4py==2.7.10.3
+graphviz==0.21
+pydotplus==2.0.2
