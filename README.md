@@ -148,6 +148,7 @@ MIMIC-ED-Process-Mining/
 │   └── process_discovery_and_conformance_checking_DA.ipynb
 ├── requirements_local.txt
 ├── requirements_colab.txt
+├── report.pdf
 └── README.md
 ```
 
